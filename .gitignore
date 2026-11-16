@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Temporary local implementation notes and QA scratch files
+/work/
+
+# Local design references and implementation review notes
+/docs/
