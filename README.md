@@ -146,7 +146,6 @@ Start from Reset rules, clear table filters, search the ID, select its row, and 
 | Outside hours | `TXN_00000008` | Source feature hour 23 fires R6 |
 | Coverage gaps | `TXN_00000008` | Empty R4 watchlist and unavailable R7 cash signal are explicit gaps |
 
-See the [5–7 minute interview walkthrough and change exercises](docs/interview-walkthrough.md), [final verification report](docs/reviews/spec-08/README.md), and [spec-by-spec review notes](docs/reviews/).
 
 ## Limits and deliberate scope
 
